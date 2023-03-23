@@ -10,18 +10,3 @@ Projeto desenvolvido durante o curso [B7Web](https://b7web.com.br).
 
 ### Para rodar
 - `npm start`
-
-<br><br>
-
-
-# BMI Calculator (English Version)
-
-React + Typescript project creating a BMI calculator.
-
-Project developed during the [B7Web](https://b7web.com.br) course.
-
-### To install
-- `npm install`
-
-### To run
-- `npm start`
